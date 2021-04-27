@@ -9,6 +9,10 @@ A Simple Analog Clock made with JavaScript and CSS3
 * CSS3
 * HTML 5
 
-### Screenshots: 
-![Demo](/img/demo.PNG)
+### Screenshots:
+
+![Demo](/img/DemoAnimation.gif)
+
+
+![Demo](/img/Demo.PNG)
 
