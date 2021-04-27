@@ -10,5 +10,5 @@ A Simple Analog Clock made with JavaScript and CSS3
 * HTML 5
 
 ### Screenshots: 
-![Demo](/img/demo.png)
+![Demo](/img/demo.PNG)
 
